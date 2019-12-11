@@ -8,7 +8,7 @@
 
 ![image-20191124143510859](shiro.assets/image-20191124143510859.png)
 
-* ==**Subject**==：理解成用户，要通过它来执行认证 ，login的操作
+* **Subject**：理解成用户，要通过它来执行认证 ，login的操作
 * Principal：认证通过后获取的用户的信息
 * Credential：执行认证的时候需要的一个凭证信息，通常是密码
 * Subject.login(principal,credential)

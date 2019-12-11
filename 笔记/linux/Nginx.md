@@ -243,3 +243,4 @@ ps -ef | grep nginx
 
 Redis  内存数据库  Nosql 
 
+s
